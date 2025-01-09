@@ -1,0 +1,13 @@
+common:
+  tags:
+    - usb
+    - net
+    - drivers
+  platform_exclude:
+    - native_posix
+    - native_posix/native/64
+    - sam_e70_xplained/same70q21
+  min_ram: 64
+sample:
+  description: USB Net interface dongle
+  name: usbnet-dongle
