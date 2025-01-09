@@ -1,6 +1,6 @@
 # USB-Net-Adapter
 
-USB-Ethernet device firmware using USB CDC-ECM (Communications Device Class - Ethernet Control Model) protocol.
+USB-Ethernet device firmware using USB RNDIS (Remote Network Driver Interface Specification) protocol.
 
 The device firmware echoes all input messages to its output. Tested on Raspberry-PI PICO.
 
