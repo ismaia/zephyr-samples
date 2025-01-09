@@ -1,8 +1,9 @@
 # USB-Net-Adapter
 
 USB-Ethernet device firmware using USB CDC-ECM (Communications Device Class - Ethernet Control Model) protocol.
-The device firmware echoes all input messages to its output.
-Tested on Raspberry-PI PICO.
+
+The device firmware echoes all input messages to its output. Tested on Raspberry-PI PICO.
+
 Round trip latency:
  * TCP: ~5 ms
  * UDP: ~2 ms
